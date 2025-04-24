@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Block about:blank",
+    "version": "1.0",
+    "description": "Automatically closes about:blank tabs.",
+    "permissions": ["tabs"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "action": {
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      },
+      "default_title": "About:Blank Blocker"
+    }
+  }
+  

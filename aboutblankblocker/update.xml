@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="acmanabffobghagfihacgpcdldfabiem">
+    <updatecheck codebase="https://www.cnpschools.org/fs/resource-manager/view/97f602f1-63a7-49aa-bfcc-42f098e264f9" version="1.0.0" />
+  </app>
+</gupdate>
